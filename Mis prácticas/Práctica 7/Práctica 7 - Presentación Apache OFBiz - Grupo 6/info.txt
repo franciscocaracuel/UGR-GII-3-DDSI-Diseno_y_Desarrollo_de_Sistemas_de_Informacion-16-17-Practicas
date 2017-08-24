@@ -1,0 +1,13 @@
+Javier López Domínguez
+Francisco Javier Caracuel Beltrán
+Miguel Ángel Dengra Martínez
+Iván Rodríguez Millán
+
+Curso 2016/2017
+DDSI - A.3 - Grupo 6
+
+--
+
+En el archivo .zip se encuentran dos archivos:
+1. OFBiz.pdf, que contiene la presentación en pdf.
+2. OFBiz.exe, que contiene la presentación para ejecutarla en Windows (ya que está hecha con prezi) y poder ver sus animaciones y transiciones.
